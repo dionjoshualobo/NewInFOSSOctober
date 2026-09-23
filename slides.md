@@ -6,6 +6,7 @@ info: |
 
   September and October 2026, by FOSS United Mangalore.
 class: text-center
+colorSchema: dark
 drawings:
   persist: false
 transition: view-transition
