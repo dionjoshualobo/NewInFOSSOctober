@@ -14,4 +14,19 @@ mdc: true
 duration: 20min
 ---
 
-# What's New in Open Source
+---
+layout: cover
+class: text-center
+---
+
+# <span class="font-semibold"><span view-transition-name="fu">What's New in</span> Open Source</span>
+
+<div class="text-gray-300 text-2xl mt-4">September – October 2026</div>
+
+<div class="abs-tl m-8 gap-4 flex justify-end items-center">
+  <img src="/assets/fu-mangalore.png" alt="FOSS United Mangalore Logo" class="h-12" />
+</div>
+
+<div class="abs-tr m-8 gap-4 flex justify-end items-center">
+  <img src="/assets/tiger.png" alt="Tiger Mascot" class="h-16" />
+</div>
