@@ -30,3 +30,9 @@ class: text-center
 <div class="abs-tr m-8 gap-4 flex justify-end items-center">
   <img src="/assets/tiger.png" alt="Tiger Mascot" class="h-16" />
 </div>
+
+---
+layout: section
+---
+
+# <span class="font-semibold">Act 1: Closer to Home</span>
