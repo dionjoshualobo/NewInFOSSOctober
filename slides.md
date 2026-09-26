@@ -38,16 +38,16 @@ layout: section
 
 # <span class="font-semibold">IndiaFOSS 2026 &amp; GB Election</span>
 
-<div class="flex justify-center my-4">
-  <img src="/assets/rlogo_fossunited.png" class="h-64 rounded-lg shadow-lg object-cover" />
-</div>
-
-<div class="text-left text-gray-300 text-lg mt-4">
-  <ul class="space-y-2">
-    <li>26–27 Sept, NIMHANS, Bengaluru</li>
-    <li>Dr. Mohit P. Tahiliani elected to FOSS United Governing Board</li>
-    <li>1,131 participants, 985 votes</li>
-  </ul>
+<div class="grid grid-cols-2 gap-6 items-center mt-4">
+  <img src="/assets/indiafoss_mangalore.jpg" class="rounded-lg shadow-lg object-cover h-80 w-full" />
+  <div class="text-left text-gray-300 text-base">
+    <ul class="space-y-2">
+      <li><strong>Dates:</strong> 26–27 Sept 2026 at NIMHANS Convention Centre, Bengaluru</li>
+      <li><strong>Governing Board:</strong> Dr. Mohit P. Tahiliani (NITK Surathkal, ns-3) elected to FOSS United GB</li>
+      <li><strong>Participation:</strong> 1,131 participants, 985 votes cast, ~146 abstentions</li>
+      <li><strong>Focus:</strong> Governance, funding and community infrastructure for FOSS in India</li>
+    </ul>
+  </div>
 </div>
 
 ---
