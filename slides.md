@@ -36,7 +36,19 @@ layout: section
 
 ---
 
-# <span class="font-semibold">IndiaFOSS 2026 held in Bengaluru; Mohit P. Tahiliani elected to FOSS United’s Governing Board</span>
+# <span class="font-semibold">IndiaFOSS 2026 &amp; GB Election</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_team.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>26–27 Sept, NIMHANS, Bengaluru</li>
+    <li>Dr. Mohit P. Tahiliani elected to FOSS United Governing Board</li>
+    <li>1,131 participants, 985 votes</li>
+  </ul>
+</div>
 
 ---
 layout: section
