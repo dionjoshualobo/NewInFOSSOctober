@@ -36,3 +36,7 @@ layout: section
 ---
 
 # <span class="font-semibold">Act 1: Closer to Home</span>
+
+---
+
+# <span class="font-semibold">IndiaFOSS 2026 held in Bengaluru; Mohit P. Tahiliani elected to FOSS United’s Governing Board</span>
