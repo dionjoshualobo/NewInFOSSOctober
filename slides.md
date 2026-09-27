@@ -40,3 +40,9 @@ layout: section
 ---
 
 # <span class="font-semibold">IndiaFOSS 2026 held in Bengaluru; Mohit P. Tahiliani elected to FOSS United’s Governing Board</span>
+
+---
+layout: section
+---
+
+# <span class="font-semibold">Act 2: The Stack We Daily-Drive</span>
