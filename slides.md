@@ -60,16 +60,16 @@ layout: section
 
 # <span class="font-semibold">Linux Kernel 7.3</span>
 
-<div class="flex justify-center my-4">
-  <img src="/assets/rlogo_kernel.png" class="h-64 rounded-lg shadow-lg object-cover" />
-</div>
-
-<div class="text-left text-gray-300 text-lg mt-4">
-  <ul class="space-y-2">
-    <li>Released 18 Oct 2026</li>
-    <li>Ubuntu 26.10 shipped with 7.3 RC on 15 Oct</li>
-    <li>New hardware, filesystem, network &amp; security updates</li>
-  </ul>
+<div class="grid grid-cols-2 gap-6 items-center mt-4">
+  <img src="/assets/rlogo_kernel.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <div class="text-left text-gray-300 text-base">
+    <ul class="space-y-2">
+      <li><strong>Released:</strong> 18 Oct 2026 (mainline)</li>
+      <li><strong>Early adoption:</strong> Ubuntu 26.10 used 7.3 RC from 15 Oct 2026</li>
+      <li><strong>Updates:</strong> New CPU/SoC support, filesystems, networking, graphics, security fixes</li>
+      <li><strong>Impact:</strong> Better support for newer laptops, ARM/RISC-V hardware</li>
+    </ul>
+  </div>
 </div>
 
 ---
