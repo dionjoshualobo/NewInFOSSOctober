@@ -58,7 +58,19 @@ layout: section
 
 ---
 
-# <span class="font-semibold">Linux kernel 7.3 released</span>
+# <span class="font-semibold">Linux Kernel 7.3</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_tech.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>Released 18 Oct 2026</li>
+    <li>Ubuntu 26.10 shipped with 7.3 RC on 15 Oct</li>
+    <li>New hardware, filesystem, network &amp; security updates</li>
+  </ul>
+</div>
 
 ---
 
