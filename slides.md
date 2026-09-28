@@ -46,3 +46,7 @@ layout: section
 ---
 
 # <span class="font-semibold">Act 2: The Stack We Daily-Drive</span>
+
+---
+
+# <span class="font-semibold">Linux kernel 7.3 released</span>
