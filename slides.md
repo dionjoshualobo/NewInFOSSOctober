@@ -76,16 +76,16 @@ layout: section
 
 # <span class="font-semibold">Ubuntu 26.10</span>
 
-<div class="flex justify-center my-4">
-  <img src="/assets/rlogo_ubuntu.png" class="h-64 rounded-lg shadow-lg object-cover" />
-</div>
-
-<div class="text-left text-gray-300 text-lg mt-4">
-  <ul class="space-y-2">
-    <li>Released 15 Oct 2026</li>
-    <li>RISC-V desktop images (SpacemiT K3, QEMU)</li>
-    <li>Myna: local, opt-in speech-to-text</li>
-  </ul>
+<div class="grid grid-cols-2 gap-6 items-center mt-4">
+  <img src="/assets/rlogo_ubuntu.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <div class="text-left text-gray-300 text-base">
+    <ul class="space-y-2">
+      <li><strong>Released:</strong> 15 Oct 2026</li>
+      <li><strong>RISC-V:</strong> Desktop images for SpacemiT K3 and QEMU, broader RISC-V support</li>
+      <li><strong>AI:</strong> Myna - opt-in speech-to-text processed locally</li>
+      <li><strong>Focus:</strong> Open hardware support + on-device AI</li>
+    </ul>
+  </div>
 </div>
 
 ---
