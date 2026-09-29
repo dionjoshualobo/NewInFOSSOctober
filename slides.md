@@ -74,7 +74,19 @@ layout: section
 
 ---
 
-# <span class="font-semibold">Ubuntu 26.10 brings RISC-V desktop images and local speech-to-text — 15 October</span>
+# <span class="font-semibold">Ubuntu 26.10</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_tech.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>Released 15 Oct 2026</li>
+    <li>RISC-V desktop images (SpacemiT K3, QEMU)</li>
+    <li>Myna: local, opt-in speech-to-text</li>
+  </ul>
+</div>
 
 ---
 
