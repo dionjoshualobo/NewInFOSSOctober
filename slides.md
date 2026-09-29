@@ -50,3 +50,7 @@ layout: section
 ---
 
 # <span class="font-semibold">Linux kernel 7.3 released</span>
+
+---
+
+# <span class="font-semibold">Ubuntu 26.10 brings RISC-V desktop images and local speech-to-text — 15 October</span>
