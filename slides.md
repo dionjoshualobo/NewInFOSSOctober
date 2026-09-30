@@ -90,7 +90,19 @@ layout: section
 
 ---
 
-# <span class="font-semibold">DankMaterialShell becomes Dux Shell</span>
+# <span class="font-semibold">Dux Shell v2.0</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_tech.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>DankMaterialShell → Dux Shell</li>
+    <li>Dux Labs ecosystem rename</li>
+    <li>Dux Files, lock screen, plugins, Hyprland/MangoWC/Aqueous support</li>
+  </ul>
+</div>
 
 ---
 
