@@ -92,16 +92,16 @@ layout: section
 
 # <span class="font-semibold">Dux Shell v2.0</span>
 
-<div class="flex justify-center my-4">
-  <img src="/assets/rlogo_dux.png" class="h-64 rounded-lg shadow-lg object-cover" />
-</div>
-
-<div class="text-left text-gray-300 text-lg mt-4">
-  <ul class="space-y-2">
-    <li>DankMaterialShell → Dux Shell</li>
-    <li>Dux Labs ecosystem rename</li>
-    <li>Dux Files, lock screen, plugins, Hyprland/MangoWC/Aqueous support</li>
-  </ul>
+<div class="grid grid-cols-2 gap-6 items-center mt-4">
+  <img src="/assets/rlogo_dux.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <div class="text-left text-gray-300 text-base">
+    <ul class="space-y-2">
+      <li><strong>Rebrand:</strong> DankMaterialShell → Dux Shell (20 Oct 2026)</li>
+      <li><strong>Ecosystem:</strong> Dank Linux → Dux Labs, related projects renamed</li>
+      <li><strong>Features:</strong> Dux Files file manager, customizable lock screen, new plugins</li>
+      <li><strong>Compositors:</strong> Hyprland, MangoWC, Aqueous support expanded</li>
+    </ul>
+  </div>
 </div>
 
 ---
