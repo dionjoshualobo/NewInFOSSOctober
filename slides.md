@@ -108,16 +108,15 @@ layout: section
 
 # <span class="font-semibold">postmarketOS → Nura</span>
 
-<div class="flex justify-center my-4">
-  <img src="/assets/rlogo_nura.png" class="h-64 rounded-lg shadow-lg object-cover" />
-</div>
-
-<div class="text-left text-gray-300 text-lg mt-4">
-  <ul class="space-y-2">
-    <li>Renamed on 27 Sept 2026</li>
-    <li>Name from Sardinian Nuraghe stone structures</li>
-    <li>Extending device lifespan, repairability &amp; e-waste reduction</li>
-  </ul>
+<div class="grid grid-cols-2 gap-6 items-center mt-4">
+  <img src="/assets/rlogo_nura.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <div class="text-left text-gray-300 text-base">
+    <ul class="space-y-2">
+      <li><strong>Renamed:</strong> 27 Sept 2026</li>
+      <li><strong>Name:</strong> From Nuraghe, ancient stone structures of Sardinia</li>
+      <li><strong>Mission:</strong> Keep devices useful longer - right to repair, device ownership, e-waste reduction</li>
+    </ul>
+  </div>
 </div>
 
 ---
