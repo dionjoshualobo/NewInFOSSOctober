@@ -58,3 +58,7 @@ layout: section
 ---
 
 # <span class="font-semibold">DankMaterialShell becomes Dux Shell</span>
+
+---
+
+# <span class="font-semibold">postmarketOS renamed to Nura</span>
