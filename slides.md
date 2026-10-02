@@ -122,7 +122,19 @@ layout: section
 
 ---
 
-# <span class="font-semibold">Microsoft WSL Containers reaches general availability</span>
+# <span class="font-semibold">WSL Containers GA</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_tech.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>Announced 29 Sept 2026</li>
+    <li><code>wslc</code> / <code>container</code> CLI, networking, lifecycle, health checks</li>
+    <li>Linux containers on Windows without Docker Desktop</li>
+  </ul>
+</div>
 
 ---
 
