@@ -62,3 +62,7 @@ layout: section
 ---
 
 # <span class="font-semibold">postmarketOS renamed to Nura</span>
+
+---
+
+# <span class="font-semibold">Microsoft WSL Containers reaches general availability</span>
