@@ -138,7 +138,19 @@ layout: section
 
 ---
 
-# <span class="font-semibold">Zephyr gets stronger semiconductor backing from Texas Instruments and Infineon — 1 October</span>
+# <span class="font-semibold">Zephyr: TI &amp; Infineon</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_tech.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>1 Oct 2026</li>
+    <li>TI and Infineon upgraded to Platinum members</li>
+    <li>Stronger support for embedded, IoT &amp; firmware</li>
+  </ul>
+</div>
 
 ---
 layout: section
