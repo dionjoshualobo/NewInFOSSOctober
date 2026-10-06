@@ -139,16 +139,15 @@ layout: section
 
 # <span class="font-semibold">Zephyr: TI &amp; Infineon</span>
 
-<div class="flex justify-center my-4">
-  <img src="/assets/rlogo_zephyr.png" class="h-64 rounded-lg shadow-lg object-cover" />
-</div>
-
-<div class="text-left text-gray-300 text-lg mt-4">
-  <ul class="space-y-2">
-    <li>1 Oct 2026</li>
-    <li>TI and Infineon upgraded to Platinum members</li>
-    <li>Stronger support for embedded, IoT &amp; firmware</li>
-  </ul>
+<div class="grid grid-cols-2 gap-6 items-center mt-4">
+  <img src="/assets/rlogo_zephyr.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <div class="text-left text-gray-300 text-base">
+    <ul class="space-y-2">
+      <li><strong>Date:</strong> 1 Oct 2026</li>
+      <li><strong>Members:</strong> Texas Instruments and Infineon upgraded to Platinum in Zephyr Project</li>
+      <li><strong>Impact:</strong> Better board support, drivers, tooling for RTOS/embedded/IoT</li>
+    </ul>
+  </div>
 </div>
 
 ---
