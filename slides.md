@@ -66,3 +66,7 @@ layout: section
 ---
 
 # <span class="font-semibold">Microsoft WSL Containers reaches general availability</span>
+
+---
+
+# <span class="font-semibold">Zephyr gets stronger semiconductor backing from Texas Instruments and Infineon — 1 October</span>
