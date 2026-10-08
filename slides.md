@@ -160,7 +160,19 @@ layout: section
 
 ---
 
-# <span class="font-semibold">HTTP Officially Gets a New Method: IETF Publishes RFC 10008 for QUERY (Sept 10)</span>
+# <span class="font-semibold">HTTP QUERY (RFC 10008)</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_code.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>Published Sept 10 2026</li>
+    <li>Safe, idempotent, cacheable method that allows a request body</li>
+    <li>Cleaner alternative to GET-with-body or POST for complex queries</li>
+  </ul>
+</div>
 
 ---
 
