@@ -76,3 +76,7 @@ layout: section
 ---
 
 # <span class="font-semibold">Act 3: Under the Hood of the Web &amp; AI</span>
+
+---
+
+# <span class="font-semibold">HTTP Officially Gets a New Method: IETF Publishes RFC 10008 for QUERY (Sept 10)</span>
