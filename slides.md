@@ -162,16 +162,15 @@ layout: section
 
 # <span class="font-semibold">HTTP QUERY (RFC 10008)</span>
 
-<div class="flex justify-center my-4">
-  <img src="/assets/rlogo_rfc.png" class="h-64 rounded-lg shadow-lg object-cover" />
-</div>
-
-<div class="text-left text-gray-300 text-lg mt-4">
-  <ul class="space-y-2">
-    <li>Published Sept 10 2026</li>
-    <li>Safe, idempotent, cacheable method that allows a request body</li>
-    <li>Cleaner alternative to GET-with-body or POST for complex queries</li>
-  </ul>
+<div class="grid grid-cols-2 gap-6 items-center mt-4">
+  <img src="/assets/rlogo_rfc.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <div class="text-left text-gray-300 text-base">
+    <ul class="space-y-2">
+      <li><strong>Published:</strong> 10 Sept 2026 as RFC 10008</li>
+      <li><strong>Properties:</strong> Safe, idempotent, cacheable; explicitly allows request body</li>
+      <li><strong>Use case:</strong> Complex search queries without GET URL limits or POST ambiguity</li>
+    </ul>
+  </div>
 </div>
 
 ---
