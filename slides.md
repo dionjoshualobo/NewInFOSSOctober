@@ -177,16 +177,15 @@ layout: section
 
 # <span class="font-semibold">Post-Quantum TLS</span>
 
-<div class="flex justify-center my-4">
-  <img src="/assets/rlogo_ietf.png" class="h-64 rounded-lg shadow-lg object-cover" />
-</div>
-
-<div class="text-left text-gray-300 text-lg mt-4">
-  <ul class="space-y-2">
-    <li>IETF advances ML-DSA (signatures) &amp; ML-KEM (key exchange) for TLS 1.3</li>
-    <li>Documents approved as informational</li>
-    <li>Preparing for quantum-era cryptography</li>
-  </ul>
+<div class="grid grid-cols-2 gap-6 items-center mt-4">
+  <img src="/assets/rlogo_ietf.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <div class="text-left text-gray-300 text-base">
+    <ul class="space-y-2">
+      <li><strong>Progress:</strong> IETF advances ML-DSA (digital signatures) &amp; ML-KEM (key establishment) for TLS 1.3</li>
+      <li><strong>Status:</strong> Documents approved as informational (protocol work in progress)</li>
+      <li><strong>Goal:</strong> Prepare internet security for future quantum computing threats</li>
+    </ul>
+  </div>
 </div>
 
 ---
