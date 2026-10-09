@@ -80,3 +80,7 @@ layout: section
 ---
 
 # <span class="font-semibold">HTTP Officially Gets a New Method: IETF Publishes RFC 10008 for QUERY (Sept 10)</span>
+
+---
+
+# <span class="font-semibold">IETF advances post-quantum cryptography work for TLS 1.3 — September</span>
