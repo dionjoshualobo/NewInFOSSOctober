@@ -176,7 +176,19 @@ layout: section
 
 ---
 
-# <span class="font-semibold">IETF advances post-quantum cryptography work for TLS 1.3 — September</span>
+# <span class="font-semibold">Post-Quantum TLS</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_code.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>IETF advances ML-DSA (signatures) &amp; ML-KEM (key exchange) for TLS 1.3</li>
+    <li>Documents approved as informational</li>
+    <li>Preparing for quantum-era cryptography</li>
+  </ul>
+</div>
 
 ---
 
