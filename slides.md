@@ -192,7 +192,19 @@ layout: section
 
 ---
 
-# <span class="font-semibold">DeepSeek Open-Sources "DeepInfer" Under Apache 2.0 (Oct 20)</span>
+# <span class="font-semibold">DeepSeek DeepInfer</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_code.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>Open-sourced 20 Oct 2026 under Apache 2.0</li>
+    <li>Production inference engine (built on vLLM)</li>
+    <li>Supports Nvidia and Huawei Ascend</li>
+  </ul>
+</div>
 
 ---
 
