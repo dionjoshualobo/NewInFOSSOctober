@@ -84,3 +84,7 @@ layout: section
 ---
 
 # <span class="font-semibold">IETF advances post-quantum cryptography work for TLS 1.3 — September</span>
+
+---
+
+# <span class="font-semibold">DeepSeek Open-Sources "DeepInfer" Under Apache 2.0 (Oct 20)</span>
