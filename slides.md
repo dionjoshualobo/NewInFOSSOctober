@@ -192,16 +192,16 @@ layout: section
 
 # <span class="font-semibold">DeepSeek DeepInfer</span>
 
-<div class="flex justify-center my-4">
-  <img src="/assets/rlogo_deepseek.png" class="h-64 rounded-lg shadow-lg object-cover" />
-</div>
-
-<div class="text-left text-gray-300 text-lg mt-4">
-  <ul class="space-y-2">
-    <li>Open-sourced 20 Oct 2026 under Apache 2.0</li>
-    <li>Production inference engine (built on vLLM)</li>
-    <li>Supports Nvidia and Huawei Ascend</li>
-  </ul>
+<div class="grid grid-cols-2 gap-6 items-center mt-4">
+  <img src="/assets/rlogo_deepseek.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <div class="text-left text-gray-300 text-base">
+    <ul class="space-y-2">
+      <li><strong>Released:</strong> 20 Oct 2026 under Apache 2.0</li>
+      <li><strong>What it is:</strong> Production inference engine powering DeepSeek models, built on vLLM</li>
+      <li><strong>Hardware:</strong> Supports NVIDIA CUDA and Huawei Ascend</li>
+      <li><strong>Impact:</strong> Opens internal serving stack to community</li>
+    </ul>
+  </div>
 </div>
 
 ---
