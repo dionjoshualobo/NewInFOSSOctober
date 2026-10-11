@@ -208,16 +208,15 @@ layout: section
 
 # <span class="font-semibold">Google Mantis</span>
 
-<div class="flex justify-center my-4">
-  <img src="/assets/rlogo_google.png" class="h-64 rounded-lg shadow-lg object-cover" />
-</div>
-
-<div class="text-left text-gray-300 text-lg mt-4">
-  <ul class="space-y-2">
-    <li>Released 2 Sept 2026</li>
-    <li>AI agents for discovery, reproduction, triage &amp; patching</li>
-    <li>Sandboxed repro to reduce false positives</li>
-  </ul>
+<div class="grid grid-cols-2 gap-6 items-center mt-4">
+  <img src="/assets/rlogo_google.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <div class="text-left text-gray-300 text-base">
+    <ul class="space-y-2">
+      <li><strong>Released:</strong> 2 Sept 2026 as open-source framework</li>
+      <li><strong>Approach:</strong> AI agents discover, reproduce, triage and help patch bugs</li>
+      <li><strong>Advantage:</strong> Sandboxed reproduction to reduce false positives from AI reports</li>
+    </ul>
+  </div>
 </div>
 
 ---
