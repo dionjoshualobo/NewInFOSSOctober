@@ -208,7 +208,19 @@ layout: section
 
 ---
 
-# <span class="font-semibold">Google open-sources Mantis, an AI framework for finding and fixing software vulnerabilities — 2 September</span>
+# <span class="font-semibold">Google Mantis</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_code.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>Released 2 Sept 2026</li>
+    <li>AI agents for discovery, reproduction, triage &amp; patching</li>
+    <li>Sandboxed repro to reduce false positives</li>
+  </ul>
+</div>
 
 ---
 layout: section
