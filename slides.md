@@ -88,3 +88,7 @@ layout: section
 ---
 
 # <span class="font-semibold">DeepSeek Open-Sources "DeepInfer" Under Apache 2.0 (Oct 20)</span>
+
+---
+
+# <span class="font-semibold">Google open-sources Mantis, an AI framework for finding and fixing software vulnerabilities — 2 September</span>
