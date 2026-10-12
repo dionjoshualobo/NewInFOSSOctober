@@ -92,3 +92,9 @@ layout: section
 ---
 
 # <span class="font-semibold">Google open-sources Mantis, an AI framework for finding and fixing software vulnerabilities — 2 September</span>
+
+---
+layout: section
+---
+
+# <span class="font-semibold">Act 4: Open Source Beyond Code</span>
