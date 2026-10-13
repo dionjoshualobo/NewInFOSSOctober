@@ -230,7 +230,19 @@ layout: section
 
 ---
 
-# <span class="font-semibold">The UN launches the System Data Commons — 17 September</span>
+# <span class="font-semibold">UN System Data Commons</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_globe.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>Launched 17 Sept 2026</li>
+    <li>26 UN entities committed, 17 connected</li>
+    <li>Improved discoverability &amp; interoperability of public data</li>
+  </ul>
+</div>
 
 ---
 
