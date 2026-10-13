@@ -229,16 +229,15 @@ layout: section
 
 # <span class="font-semibold">UN System Data Commons</span>
 
-<div class="flex justify-center my-4">
-  <img src="/assets/rlogo_un.png" class="h-64 rounded-lg shadow-lg object-cover" />
-</div>
-
-<div class="text-left text-gray-300 text-lg mt-4">
-  <ul class="space-y-2">
-    <li>Launched 17 Sept 2026</li>
-    <li>26 UN entities committed, 17 connected</li>
-    <li>Improved discoverability &amp; interoperability of public data</li>
-  </ul>
+<div class="grid grid-cols-2 gap-6 items-center mt-4">
+  <img src="/assets/rlogo_un.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <div class="text-left text-gray-300 text-base">
+    <ul class="space-y-2">
+      <li><strong>Launched:</strong> 17 Sept 2026</li>
+      <li><strong>Adoption:</strong> 26 UN entities committed, 17 connected at launch</li>
+      <li><strong>Goal:</strong> Make UN system data easier to discover, access and reuse</li>
+    </ul>
+  </div>
 </div>
 
 ---
