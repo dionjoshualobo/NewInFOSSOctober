@@ -246,7 +246,19 @@ layout: section
 
 ---
 
-# <span class="font-semibold">Google Data Commons launches an SDMX 3.0 API — 23 September</span>
+# <span class="font-semibold">Data Commons SDMX 3.0</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_globe.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>Launched 23 Sept 2026</li>
+    <li>Standardized access to statistical data/metadata</li>
+    <li>Easier reuse of public statistics</li>
+  </ul>
+</div>
 
 ---
 
