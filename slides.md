@@ -244,16 +244,15 @@ layout: section
 
 # <span class="font-semibold">Data Commons SDMX 3.0</span>
 
-<div class="flex justify-center my-4">
-  <img src="/assets/rlogo_datacommons.png" class="h-64 rounded-lg shadow-lg object-cover" />
-</div>
-
-<div class="text-left text-gray-300 text-lg mt-4">
-  <ul class="space-y-2">
-    <li>Launched 23 Sept 2026</li>
-    <li>Standardized access to statistical data/metadata</li>
-    <li>Easier reuse of public statistics</li>
-  </ul>
+<div class="grid grid-cols-2 gap-6 items-center mt-4">
+  <img src="/assets/rlogo_datacommons.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <div class="text-left text-gray-300 text-base">
+    <ul class="space-y-2">
+      <li><strong>Launched:</strong> 23 Sept 2026</li>
+      <li><strong>Standard:</strong> SDMX 3.0 API for discovering and retrieving statistical observations</li>
+      <li><strong>Benefit:</strong> Standardized interfaces for public statistics without custom parsers</li>
+    </ul>
+  </div>
 </div>
 
 ---
