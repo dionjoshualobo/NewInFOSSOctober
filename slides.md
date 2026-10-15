@@ -259,16 +259,15 @@ layout: section
 
 # <span class="font-semibold">OpenStreetMap Milestones</span>
 
-<div class="flex justify-center my-4">
-  <img src="/assets/rlogo_osm.png" class="h-64 rounded-lg shadow-lg object-cover" />
-</div>
-
-<div class="text-left text-gray-300 text-lg mt-4">
-  <ul class="space-y-2">
-    <li>115M+ mapped names (ODbL)</li>
-    <li>New vector tile layer on openstreetmap.org</li>
-    <li>20th OSMF AGM &amp; board election on 17 Oct</li>
-  </ul>
+<div class="grid grid-cols-2 gap-6 items-center mt-4">
+  <img src="/assets/rlogo_osm.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <div class="text-left text-gray-300 text-base">
+    <ul class="space-y-2">
+      <li><strong>Milestone:</strong> Over 115 million mapped names under ODbL</li>
+      <li><strong>Update:</strong> New localized vector tile layer on openstreetmap.org</li>
+      <li><strong>Governance:</strong> 20th OSM Foundation AGM and board election on 17 Oct 2026</li>
+    </ul>
+  </div>
 </div>
 
 ---
