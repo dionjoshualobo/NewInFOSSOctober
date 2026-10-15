@@ -106,3 +106,7 @@ layout: section
 ---
 
 # <span class="font-semibold">Google Data Commons launches an SDMX 3.0 API — 23 September</span>
+
+---
+
+# <span class="font-semibold">OpenStreetMap Crosses 115 Million Mapped Names &amp; Holds 20th AGM (Sept – Oct 17)</span>
