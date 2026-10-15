@@ -262,7 +262,19 @@ layout: section
 
 ---
 
-# <span class="font-semibold">OpenStreetMap Crosses 115 Million Mapped Names &amp; Holds 20th AGM (Sept – Oct 17)</span>
+# <span class="font-semibold">OpenStreetMap Milestones</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_globe.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>115M+ mapped names (ODbL)</li>
+    <li>New vector tile layer on openstreetmap.org</li>
+    <li>20th OSMF AGM &amp; board election on 17 Oct</li>
+  </ul>
+</div>
 
 ---
 
