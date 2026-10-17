@@ -110,3 +110,7 @@ layout: section
 ---
 
 # <span class="font-semibold">OpenStreetMap Crosses 115 Million Mapped Names &amp; Holds 20th AGM (Sept – Oct 17)</span>
+
+---
+
+# <span class="font-semibold">Linux Foundation launches OpenGrid for electricity-grid planning — 7 October</span>
