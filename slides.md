@@ -278,7 +278,19 @@ layout: section
 
 ---
 
-# <span class="font-semibold">Linux Foundation launches OpenGrid for electricity-grid planning — 7 October</span>
+# <span class="font-semibold">LF OpenGrid</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_globe.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>Launched 7 Oct 2026</li>
+    <li>Open data, tools, APIs &amp; interoperability for grid planning</li>
+    <li>Accelerates energy infrastructure deployment</li>
+  </ul>
+</div>
 
 ---
 layout: section
