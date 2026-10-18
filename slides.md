@@ -114,3 +114,9 @@ layout: section
 ---
 
 # <span class="font-semibold">Linux Foundation launches OpenGrid for electricity-grid planning — 7 October</span>
+
+---
+layout: section
+---
+
+# <span class="font-semibold">Act 5: Patch Your Servers &amp; Protect Maintainers</span>
