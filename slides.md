@@ -120,3 +120,7 @@ layout: section
 ---
 
 # <span class="font-semibold">Act 5: Patch Your Servers &amp; Protect Maintainers</span>
+
+---
+
+# <span class="font-semibold">PHP2Shell: two critical, unauthenticated remote-code-execution vulnerabilities in PHP — 21 October</span>
