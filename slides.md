@@ -302,16 +302,16 @@ layout: section
 
 # <span class="font-semibold">PHP2Shell RCEs</span>
 
-<div class="flex justify-center my-4">
-  <img src="/assets/rlogo_php.png" class="h-64 rounded-lg shadow-lg object-cover" />
-</div>
-
-<div class="text-left text-gray-300 text-lg mt-4">
-  <ul class="space-y-2">
-    <li>CVE-2026-109618, CVE-2026-109619 (CVSS 9.2)</li>
-    <li>Unauth RCE, Apache mod_php especially exposed</li>
-    <li>Fixes in 8.5.12/8.4.27/8.3.36/8.2.35; third issue (CVE-2026-115560) follow-up</li>
-  </ul>
+<div class="grid grid-cols-2 gap-6 items-center mt-4">
+  <img src="/assets/rlogo_php.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <div class="text-left text-gray-300 text-base">
+    <ul class="space-y-2">
+      <li><strong>CVEs:</strong> CVE-2026-109618, CVE-2026-109619 (CVSS 9.2)</li>
+      <li><strong>Impact:</strong> Unauthenticated RCE via memory corruption/stale global state; mod_php especially at risk</li>
+      <li><strong>Patches:</strong> PHP 8.5.12, 8.4.27, 8.3.36, 8.2.35</li>
+      <li><strong>Follow-up:</strong> CVE-2026-115560 reported 23 Oct; no fix yet - mitigate by disabling <code>session.upload_progress.enabled</code></li>
+    </ul>
+  </div>
 </div>
 
 ---
