@@ -300,7 +300,19 @@ layout: section
 
 ---
 
-# <span class="font-semibold">PHP2Shell: two critical, unauthenticated remote-code-execution vulnerabilities in PHP — 21 October</span>
+# <span class="font-semibold">PHP2Shell RCEs</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_server.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>CVE-2026-109618, CVE-2026-109619 (CVSS 9.2)</li>
+    <li>Unauth RCE, Apache mod_php especially exposed</li>
+    <li>Fixes in 8.5.12/8.4.27/8.3.36/8.2.35; third issue (CVE-2026-115560) follow-up</li>
+  </ul>
+</div>
 
 ---
 
