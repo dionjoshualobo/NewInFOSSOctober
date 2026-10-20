@@ -318,17 +318,16 @@ layout: section
 
 # <span class="font-semibold">Node.js Security Update</span>
 
-<div class="flex justify-center my-4">
-  <img src="/assets/rlogo_nodejs.png" class="h-64 rounded-lg shadow-lg object-cover" />
-</div>
-
-<div class="text-left text-gray-300 text-lg mt-4">
-  <ul class="space-y-2">
-    <li>Released 21 Oct 2026</li>
-    <li>CVE-2026-111497 Brotli OOB write (RCE risk)</li>
-    <li>DNS NUL truncation, TLS hostname bypass, crypto cache reuse</li>
-    <li>Fixed in 22.23.4/24.22.1/26.12.1</li>
-  </ul>
+<div class="grid grid-cols-2 gap-6 items-center mt-4">
+  <img src="/assets/rlogo_nodejs.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <div class="text-left text-gray-300 text-base">
+    <ul class="space-y-2">
+      <li><strong>Released:</strong> 21 Oct 2026</li>
+      <li><strong>Critical:</strong> CVE-2026-111497 - out-of-bounds write in bundled Brotli decoder (RCE risk)</li>
+      <li><strong>Others:</strong> DNS NUL-byte truncation, TLS hostname verification bypass, crypto random cache reuse across snapshots</li>
+      <li><strong>Patches:</strong> Node.js 22.23.4, 24.22.1, 26.12.1</li>
+    </ul>
+  </div>
 </div>
 
 ---
