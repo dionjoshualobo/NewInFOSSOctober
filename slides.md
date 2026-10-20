@@ -316,7 +316,20 @@ layout: section
 
 ---
 
-# <span class="font-semibold">Node.js releases a major security update covering DNS, TLS, Brotli and cryptography — 21 October</span>
+# <span class="font-semibold">Node.js Security Update</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_server.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>Released 21 Oct 2026</li>
+    <li>CVE-2026-111497 Brotli OOB write (RCE risk)</li>
+    <li>DNS NUL truncation, TLS hostname bypass, crypto cache reuse</li>
+    <li>Fixed in 22.23.4/24.22.1/26.12.1</li>
+  </ul>
+</div>
 
 ---
 
