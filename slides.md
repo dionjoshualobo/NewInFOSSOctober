@@ -124,3 +124,7 @@ layout: section
 ---
 
 # <span class="font-semibold">PHP2Shell: two critical, unauthenticated remote-code-execution vulnerabilities in PHP — 21 October</span>
+
+---
+
+# <span class="font-semibold">Node.js releases a major security update covering DNS, TLS, Brotli and cryptography — 21 October</span>
