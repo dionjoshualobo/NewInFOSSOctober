@@ -334,14 +334,13 @@ layout: section
 
 # <span class="font-semibold">IFPI vs yt-dlp</span>
 
-<div class="flex justify-center my-4">
-  <img src="/assets/rlogo_github.png" class="h-64 rounded-lg shadow-lg object-cover" />
-</div>
-
-<div class="text-left text-gray-300 text-lg mt-4">
-  <ul class="space-y-2">
-    <li>IFPI requests inclusion in EU Counterfeit &amp; Piracy Watch List</li>
-    <li>Request, not a ban; watch list expected Q2 2027</li>
-    <li>Raises maintainer responsibility debate (legitimate vs infringing use)</li>
-  </ul>
+<div class="grid grid-cols-2 gap-6 items-center mt-4">
+  <img src="/assets/rlogo_github.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <div class="text-left text-gray-300 text-base">
+    <ul class="space-y-2">
+      <li><strong>Request:</strong> IFPI asked EC to include yt-dlp in 2027 Counterfeit &amp; Piracy Watch List (stream-ripping)</li>
+      <li><strong>Status:</strong> Request, not a ban - watch list expected Q2 2027</li>
+      <li><strong>Debate:</strong> Dual-use software - should responsibility fall on developers/users/platforms/providers?</li>
+    </ul>
+  </div>
 </div>
