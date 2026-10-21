@@ -333,4 +333,16 @@ layout: section
 
 ---
 
-# <span class="font-semibold">IFPI wants yt-dlp included in the EU's piracy watch list</span>
+# <span class="font-semibold">IFPI vs yt-dlp</span>
+
+<div class="flex justify-center my-4">
+  <img src="/assets/img_server.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+</div>
+
+<div class="text-left text-gray-300 text-lg mt-4">
+  <ul class="space-y-2">
+    <li>IFPI requests inclusion in EU Counterfeit &amp; Piracy Watch List</li>
+    <li>Request, not a ban; watch list expected Q2 2027</li>
+    <li>Raises maintainer responsibility debate (legitimate vs infringing use)</li>
+  </ul>
+</div>
