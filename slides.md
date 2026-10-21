@@ -128,3 +128,7 @@ layout: section
 ---
 
 # <span class="font-semibold">Node.js releases a major security update covering DNS, TLS, Brotli and cryptography — 21 October</span>
+
+---
+
+# <span class="font-semibold">IFPI wants yt-dlp included in the EU's piracy watch list</span>
