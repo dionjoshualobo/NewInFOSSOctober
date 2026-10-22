@@ -12,11 +12,7 @@ drawings:
 transition: view-transition
 mdc: true
 duration: 20min
----
-
----
 layout: cover
-class: text-center
 ---
 
 # <span class="font-semibold"><span view-transition-name="fu">What's New in</span> Open Source</span>
