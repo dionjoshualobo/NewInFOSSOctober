@@ -1,0 +1,45 @@
+Act 1: Closer to Home (Start with high energy & local pride)
+
+    IndiaFOSS 2026 in Bengaluru & Dr. Mohit P. Tahiliani elected to FOSS United’s Governing Board (Sept 26–27)
+
+Act 2: The Stack We Daily-Drive (Kernel, Desktop, Containers & Hardware)
+
+    Linux kernel 7.3 released (Oct 18)
+
+    Ubuntu 26.10 brings RISC-V desktop images and local speech-to-text (Oct 15)
+
+    DankMaterialShell becomes Dux Shell (v2.0) (Oct 20)
+
+    postmarketOS renamed to Nura (Sept 27)
+
+    Microsoft WSL Containers reaches general availability (Sept 29)
+
+    Zephyr gets stronger semiconductor backing from Texas Instruments and Infineon (Oct 1)
+
+Act 3: Under the Hood of the Web & AI (Standards & Inference)
+
+    HTTP gets a new method: IETF QUERY (RFC 10008) (Sept 10 coverage)
+
+    IETF advances post-quantum cryptography work for TLS 1.3 (Sept)
+
+    DeepSeek open-sources "DeepInfer" under Apache 2.0 (Oct 20)
+
+    Google open-sources Mantis for AI-driven vulnerability triage and patching (Sept 2)
+
+Act 4: Open Source Beyond Code (Public Data, Maps & Real-World Grids)
+
+    The UN launches the System Data Commons (Sept 17)
+
+    Google Data Commons launches an SDMX 3.0 API (Sept 23)
+
+    OpenStreetMap crosses 115 million mapped names & holds 20th AGM (Oct 17)
+
+    Linux Foundation launches OpenGrid for electricity-grid planning (Oct 7)
+
+Act 5: Patch Your Servers & Protect Maintainers (End with urgent takeaways & debate)
+
+    PHP2Shell: Critical unauthenticated RCE vulnerabilities in PHP + Oct 23 follow-up flaw (Oct 21–23)
+
+    Node.js major security release: Brotli RCE, DNS truncation, TLS bypass & crypto cache bugs (Oct 21)
+
+    IFPI petitions to put yt-dlp on the EU's piracy watch list (Sept 29) (Great closer to spark audience discussion)
