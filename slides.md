@@ -43,9 +43,8 @@ layout: section
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Dates:</strong> 26–27 Sept 2026 at NIMHANS Convention Centre, Bengaluru</li>
-      <li><strong>Governing Board:</strong> Dr. Mohit P. Tahiliani (NITK Surathkal, ns-3) elected to FOSS United GB</li>
+      <li><strong>Governing Board:</strong> Dr. Mohit P. Tahiliani elected to FOSS United GB</li>
       <li><strong>Participation:</strong> 1,131 participants, 985 votes cast, ~146 abstentions</li>
-      <li><strong>Focus:</strong> Governance, funding and community infrastructure for FOSS in India</li>
     </ul>
   </div>
 </div>
@@ -61,7 +60,7 @@ layout: section
 # <span class="font-semibold">Linux Kernel 7.3</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_kernel.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/linux.png" class="rounded-lg shadow-lg object-contain h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Released:</strong> 18 Oct 2026 (mainline)</li>
@@ -77,7 +76,7 @@ layout: section
 # <span class="font-semibold">Ubuntu 26.10</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_ubuntu.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/rlogo_ubuntu.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Released:</strong> 15 Oct 2026</li>
@@ -93,7 +92,7 @@ layout: section
 # <span class="font-semibold">Dux Shell v2.0</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_dux.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/rlogo_dux.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Rebrand:</strong> DankMaterialShell → Dux Shell (20 Oct 2026)</li>
@@ -109,7 +108,7 @@ layout: section
 # <span class="font-semibold">postmarketOS → Nura</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_nura.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/rlogo_nura.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Renamed:</strong> 27 Sept 2026</li>
@@ -124,7 +123,7 @@ layout: section
 # <span class="font-semibold">WSL Containers GA</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_microsoft.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/rlogo_microsoft.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Announced:</strong> 29 Sept 2026 (General Availability)</li>
@@ -140,7 +139,7 @@ layout: section
 # <span class="font-semibold">Zephyr: TI &amp; Infineon</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_zephyr.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/rlogo_zephyr.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Date:</strong> 1 Oct 2026</li>
@@ -161,7 +160,7 @@ layout: section
 # <span class="font-semibold">HTTP QUERY (RFC 10008)</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_rfc.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/rlogo_rfc.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Published:</strong> 10 Sept 2026 as RFC 10008</li>
@@ -176,7 +175,7 @@ layout: section
 # <span class="font-semibold">Post-Quantum TLS</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_ietf.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/rlogo_ietf.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Progress:</strong> IETF advances ML-DSA (digital signatures) &amp; ML-KEM (key establishment) for TLS 1.3</li>
@@ -191,7 +190,7 @@ layout: section
 # <span class="font-semibold">DeepSeek DeepInfer</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_deepseek.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/rlogo_deepseek.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Released:</strong> 20 Oct 2026 under Apache 2.0</li>
@@ -207,7 +206,7 @@ layout: section
 # <span class="font-semibold">Google Mantis</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_google.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/rlogo_google.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Released:</strong> 2 Sept 2026 as open-source framework</li>
@@ -228,7 +227,7 @@ layout: section
 # <span class="font-semibold">UN System Data Commons</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_un.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/rlogo_un.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Launched:</strong> 17 Sept 2026</li>
@@ -243,7 +242,7 @@ layout: section
 # <span class="font-semibold">Data Commons SDMX 3.0</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_datacommons.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/rlogo_datacommons.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Launched:</strong> 23 Sept 2026</li>
@@ -258,7 +257,7 @@ layout: section
 # <span class="font-semibold">OpenStreetMap Milestones</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_osm.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/rlogo_osm.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Milestone:</strong> Over 115 million mapped names under ODbL</li>
@@ -273,7 +272,7 @@ layout: section
 # <span class="font-semibold">LF OpenGrid</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_lf.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/rlogo_lf.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Launched:</strong> 7 Oct 2026 by Linux Foundation</li>
@@ -294,7 +293,7 @@ layout: section
 # <span class="font-semibold">PHP2Shell RCEs</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_php.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/rlogo_php.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>CVEs:</strong> CVE-2026-109618, CVE-2026-109619 (CVSS 9.2)</li>
@@ -310,7 +309,7 @@ layout: section
 # <span class="font-semibold">Node.js Security Update</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_nodejs.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/rlogo_nodejs.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Released:</strong> 21 Oct 2026</li>
@@ -326,7 +325,7 @@ layout: section
 # <span class="font-semibold">IFPI vs yt-dlp</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_github.png" class="rounded-lg shadow-lg object-contain h-64 w-full bg-white p-4" />
+  <img src="/assets/rlogo_github.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Request:</strong> IFPI asked EC to include yt-dlp in 2027 Counterfeit &amp; Piracy Watch List (stream-ripping)</li>
