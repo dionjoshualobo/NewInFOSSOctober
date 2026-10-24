@@ -9,13 +9,26 @@ class: text-center
 colorSchema: dark
 drawings:
   persist: false
-transition: view-transition
+transition: fade
 mdc: true
 duration: 20min
+css: |
+  :root {
+    --slidev-theme-primary: #ffffff;
+  }
+  html.dark,
+  .slidev-layout,
+  .slidev-page,
+  body {
+    background: #000000 !important;
+  }
+  #slide-content {
+    background: #000000 !important;
+  }
 layout: cover
 ---
 
-# <span class="font-semibold"><span view-transition-name="fu">What's New in</span> Open Source</span>
+# <span class="font-semibold">What's New in Open Source</span>
 
 <div class="text-gray-300 text-2xl mt-4">September – October 2026</div>
 
