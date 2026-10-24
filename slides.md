@@ -12,19 +12,7 @@ drawings:
 transition: fade
 mdc: true
 duration: 20min
-css: |
-  :root {
-    --slidev-theme-primary: #ffffff;
-  }
-  html.dark,
-  .slidev-layout,
-  .slidev-page,
-  body {
-    background: #000000 !important;
-  }
-  #slide-content {
-    background: #000000 !important;
-  }
+
 layout: cover
 ---
 
