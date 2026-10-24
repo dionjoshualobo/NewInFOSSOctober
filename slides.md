@@ -343,18 +343,9 @@ layout: center
 class: text-center
 ---
 
-<div class="relative">
-  <div class="absolute inset-0 flex items-center justify-center opacity-10">
-    <div class="w-96 h-96 rounded-full bg-gradient-to-r from-cyan-500 to-blue-600 blur-3xl"></div>
-  </div>
-  <div class="relative z-10">
-    <div class="text-8xl font-black mb-6 tracking-wider">
-      <span class="bg-gradient-to-br from-cyan-300 via-blue-400 to-purple-500 bg-clip-text text-transparent">THANK YOU</span>
-    </div>
-    <div class="h-1 w-32 mx-auto bg-gradient-to-r from-cyan-400 to-blue-500 mb-8 rounded-full"></div>
-    <div class="flex justify-center items-center">
-      <img src="/assets/tiger.png" alt="Tiger Mascot" class="h-40 drop-shadow-2xl" />
-    </div>
-    <div class="mt-8 text-gray-400 text-lg tracking-widest uppercase">FOSS United Mangalore</div>
+<div class="border border-white px-16 py-12">
+  <div class="text-8xl font-light tracking-[0.3em] uppercase mb-8">Thank You</div>
+  <div class="flex justify-center items-center">
+    <img src="/assets/tiger.png" alt="Tiger Mascot" class="h-36" />
   </div>
 </div>
