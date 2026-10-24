@@ -343,9 +343,7 @@ layout: center
 class: text-center
 ---
 
-<div class="border border-white px-16 py-12">
-  <div class="text-8xl font-light tracking-[0.3em] uppercase mb-8">Thank You</div>
-  <div class="flex justify-center items-center">
-    <img src="/assets/tiger.png" alt="Tiger Mascot" class="h-36" />
-  </div>
+<div class="text-8xl font-light tracking-[0.3em] uppercase mb-8">Thank You</div>
+<div class="flex justify-center items-center">
+  <img src="/assets/tiger.png" alt="Tiger Mascot" class="h-36" />
 </div>
