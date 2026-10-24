@@ -191,7 +191,7 @@ layout: section
 # <span class="font-semibold">DeepSeek DeepInfer</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_deepseek.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/deepseek.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Released:</strong> 20 Oct 2026 under Apache 2.0</li>
@@ -207,7 +207,7 @@ layout: section
 # <span class="font-semibold">Google Mantis</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_google.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/mantis.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Released:</strong> 2 Sept 2026 as open-source framework</li>
@@ -228,7 +228,7 @@ layout: section
 # <span class="font-semibold">UN System Data Commons</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_un.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/un.svg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Launched:</strong> 17 Sept 2026</li>
@@ -243,7 +243,7 @@ layout: section
 # <span class="font-semibold">Data Commons SDMX 3.0</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_datacommons.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/sdmx.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Launched:</strong> 23 Sept 2026</li>
@@ -261,9 +261,9 @@ layout: section
   <img src="/assets/rlogo_osm.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
-      <li><strong>Milestone:</strong> Over 115 million mapped names under ODbL</li>
-      <li><strong>Update:</strong> New localized vector tile layer on openstreetmap.org</li>
-      <li><strong>Governance:</strong> 20th OSM Foundation AGM and board election on 17 Oct 2026</li>
+      <li><strong>Milestone:</strong> Over 115 million mapped names under the Open Database License (ODbL)</li>
+      <li><strong>Vector Tiles:</strong> New localized vector tile layer on openstreetmap.org — delivers map data as small, styled vector pieces so maps load faster and display in local languages/styles.</li>
+      <li><strong>Governance:</strong> 20th OpenStreetMap Foundation Annual General Meeting (AGM) and board election on 17 Oct 2026</li>
     </ul>
   </div>
 </div>
