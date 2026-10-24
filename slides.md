@@ -60,7 +60,7 @@ layout: section
 # <span class="font-semibold">Linux Kernel 7.3</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/linux.png" class="rounded-lg shadow-lg object-contain h-72 w-auto" />
+  <img src="/assets/linux.png" class="rounded-lg shadow-lg object-contain h-80 max-w-[420px] w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Released:</strong> 18 Oct 2026 (mainline)</li>
