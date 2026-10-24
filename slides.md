@@ -337,3 +337,21 @@ layout: section
     </ul>
   </div>
 </div>
+
+---
+layout: center
+class: text-center
+---
+
+<div class="text-6xl font-bold mb-6">
+  <span class="bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">Thank You!</span>
+</div>
+
+<div class="text-xl text-gray-300 mb-8">
+  Questions &amp; Discussions
+</div>
+
+<div class="flex justify-center items-center gap-6 mt-8">
+  <img src="/assets/fu-mangalore.png" alt="FOSS United Mangalore" class="h-16" />
+  <img src="/assets/tiger.png" alt="Tiger Mascot" class="h-20" />
+</div>
