@@ -92,7 +92,7 @@ layout: section
 # <span class="font-semibold">Dux Shell v2.0</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_dux.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/dux.svg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Rebrand:</strong> DankMaterialShell → Dux Shell (20 Oct 2026)</li>
@@ -108,7 +108,7 @@ layout: section
 # <span class="font-semibold">postmarketOS → Nura</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_nura.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/nura.svg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Renamed:</strong> 27 Sept 2026</li>
@@ -123,7 +123,7 @@ layout: section
 # <span class="font-semibold">WSL Containers GA</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_microsoft.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/wsl.svg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Announced:</strong> 29 Sept 2026 (General Availability)</li>
@@ -160,7 +160,7 @@ layout: section
 # <span class="font-semibold">HTTP QUERY (RFC 10008)</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_rfc.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/query.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Published:</strong> 10 Sept 2026 as RFC 10008</li>
@@ -178,9 +178,10 @@ layout: section
   <img src="/assets/rlogo_ietf.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
-      <li><strong>Progress:</strong> IETF advances ML-DSA (digital signatures) &amp; ML-KEM (key establishment) for TLS 1.3</li>
-      <li><strong>Status:</strong> Documents approved as informational (protocol work in progress)</li>
-      <li><strong>Goal:</strong> Prepare internet security for future quantum computing threats</li>
+      <li><strong>What's happening:</strong> The Internet Engineering Task Force is advancing support for quantum-resistant cryptography in Transport Layer Security version 1.3.</li>
+      <li><strong>Algorithms:</strong> Module-Lattice-Based Digital Signature Algorithm (ML-DSA) for verifying identities, and Module-Lattice-Based Key Encapsulation Mechanism (ML-KEM) for secure key exchange.</li>
+      <li><strong>Status:</strong> These documents have been approved as informational — work is ongoing, not yet a final standard.</li>
+      <li><strong>Why it matters:</strong> Preparing the internet for future quantum computers that could break current public-key cryptography.</li>
     </ul>
   </div>
 </div>
