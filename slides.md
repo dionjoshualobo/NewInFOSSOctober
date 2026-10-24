@@ -39,7 +39,7 @@ layout: section
 # <span class="font-semibold">IndiaFOSS 2026 &amp; GB Election</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_team.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_fossunited.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -61,7 +61,7 @@ layout: section
 # <span class="font-semibold">Linux Kernel 7.3</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_tech.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_kernel.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -77,7 +77,7 @@ layout: section
 # <span class="font-semibold">Ubuntu 26.10</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_tech.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_ubuntu.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -93,7 +93,7 @@ layout: section
 # <span class="font-semibold">Dux Shell v2.0</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_tech.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_dux.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -109,7 +109,7 @@ layout: section
 # <span class="font-semibold">postmarketOS → Nura</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_tech.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_nura.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -125,7 +125,7 @@ layout: section
 # <span class="font-semibold">WSL Containers GA</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_tech.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_microsoft.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -141,7 +141,7 @@ layout: section
 # <span class="font-semibold">Zephyr: TI &amp; Infineon</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_tech.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_zephyr.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -163,7 +163,7 @@ layout: section
 # <span class="font-semibold">HTTP QUERY (RFC 10008)</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_code.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_rfc.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -179,7 +179,7 @@ layout: section
 # <span class="font-semibold">Post-Quantum TLS</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_code.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_ietf.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -195,7 +195,7 @@ layout: section
 # <span class="font-semibold">DeepSeek DeepInfer</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_code.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_deepseek.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -211,7 +211,7 @@ layout: section
 # <span class="font-semibold">Google Mantis</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_code.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_google.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -233,7 +233,7 @@ layout: section
 # <span class="font-semibold">UN System Data Commons</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_globe.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_un.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -249,7 +249,7 @@ layout: section
 # <span class="font-semibold">Data Commons SDMX 3.0</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_globe.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_datacommons.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -265,7 +265,7 @@ layout: section
 # <span class="font-semibold">OpenStreetMap Milestones</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_globe.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_osm.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -281,7 +281,7 @@ layout: section
 # <span class="font-semibold">LF OpenGrid</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_globe.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_lf.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -303,7 +303,7 @@ layout: section
 # <span class="font-semibold">PHP2Shell RCEs</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_server.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_php.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -319,7 +319,7 @@ layout: section
 # <span class="font-semibold">Node.js Security Update</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_server.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_nodejs.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
@@ -336,7 +336,7 @@ layout: section
 # <span class="font-semibold">IFPI vs yt-dlp</span>
 
 <div class="flex justify-center my-4">
-  <img src="/assets/img_server.jpg" class="h-64 rounded-lg shadow-lg object-cover" />
+  <img src="/assets/rlogo_github.png" class="h-64 rounded-lg shadow-lg object-cover" />
 </div>
 
 <div class="text-left text-gray-300 text-lg mt-4">
