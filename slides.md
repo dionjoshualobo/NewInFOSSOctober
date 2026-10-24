@@ -39,7 +39,7 @@ layout: section
 # <span class="font-semibold">IndiaFOSS 2026 &amp; GB Election</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/indiafoss_mangalore.jpg" class="rounded-lg shadow-lg object-cover h-80 w-full" />
+  <img src="/assets/indiafoss_mangalore.jpg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Dates:</strong> 26–27 Sept 2026 at NIMHANS Convention Centre, Bengaluru</li>
@@ -60,7 +60,7 @@ layout: section
 # <span class="font-semibold">Linux Kernel 7.3</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/linux.jpg" class="rounded-lg shadow-lg object-contain h-80 max-w-[420px] w-auto" />
+  <img src="/assets/linux.jpg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Released:</strong> 18 Oct 2026 (mainline)</li>
@@ -76,7 +76,7 @@ layout: section
 # <span class="font-semibold">Ubuntu 26.10</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/rlogo_ubuntu.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/rlogo_ubuntu.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Released:</strong> 15 Oct 2026</li>
@@ -92,7 +92,7 @@ layout: section
 # <span class="font-semibold">Dux Shell v2.0</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/dux.svg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/dux.svg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Rebrand:</strong> DankMaterialShell → Dux Shell (20 Oct 2026)</li>
@@ -108,7 +108,7 @@ layout: section
 # <span class="font-semibold">postmarketOS → Nura</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/nura.svg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/nura.svg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Renamed:</strong> 27 Sept 2026</li>
@@ -123,7 +123,7 @@ layout: section
 # <span class="font-semibold">WSL Containers GA</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/wsl.svg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/wsl.svg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Announced:</strong> 29 Sept 2026 (General Availability)</li>
@@ -139,7 +139,7 @@ layout: section
 # <span class="font-semibold">Zephyr: TI &amp; Infineon</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/zephyr.svg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/zephyr.svg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Date:</strong> 1 Oct 2026</li>
@@ -160,7 +160,7 @@ layout: section
 # <span class="font-semibold">HTTP QUERY (RFC 10008)</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/query.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/query.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Published:</strong> 10 Sept 2026 as RFC 10008</li>
@@ -175,7 +175,7 @@ layout: section
 # <span class="font-semibold">Post-Quantum TLS</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/ietf.jpg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/ietf.jpg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>What's happening:</strong> The Internet Engineering Task Force is advancing support for quantum-resistant cryptography in Transport Layer Security version 1.3.</li>
@@ -191,7 +191,7 @@ layout: section
 # <span class="font-semibold">DeepSeek DeepInfer</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/deepseek.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/deepseek.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Released:</strong> 20 Oct 2026 under Apache 2.0</li>
@@ -207,7 +207,7 @@ layout: section
 # <span class="font-semibold">Google Mantis</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/mantis.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/mantis.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Released:</strong> 2 Sept 2026 as open-source framework</li>
@@ -228,7 +228,7 @@ layout: section
 # <span class="font-semibold">UN System Data Commons</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/un.svg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/un.svg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Launched:</strong> 17 Sept 2026</li>
@@ -243,7 +243,7 @@ layout: section
 # <span class="font-semibold">Data Commons SDMX 3.0</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/sdmx.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/sdmx.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Launched:</strong> 23 Sept 2026</li>
@@ -258,7 +258,7 @@ layout: section
 # <span class="font-semibold">OpenStreetMap Milestones</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/osm.svg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/osm.svg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Milestone:</strong> Over 115 million mapped names under the Open Database License (ODbL)</li>
@@ -273,7 +273,7 @@ layout: section
 # <span class="font-semibold">LF OpenGrid</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/opengrid.svg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/opengrid.svg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Launched:</strong> 7 Oct 2026 by Linux Foundation</li>
@@ -294,7 +294,7 @@ layout: section
 # <span class="font-semibold">PHP2Shell RCEs</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/php.svg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/php.svg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>CVEs:</strong> CVE-2026-109618, CVE-2026-109619 (CVSS 9.2)</li>
@@ -310,7 +310,7 @@ layout: section
 # <span class="font-semibold">Node.js Security Update</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/nodejs.svg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/nodejs.svg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Released:</strong> 21 Oct 2026</li>
@@ -326,7 +326,7 @@ layout: section
 # <span class="font-semibold">IFPI vs yt-dlp</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/yt-dlp.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/yt-dlp.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Requester:</strong> International Federation of the Phonographic Industry (IFPI) asked the European Commission (EC) to add yt-dlp to the EU's Counterfeit and Piracy Watch List.</li>
