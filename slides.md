@@ -336,4 +336,3 @@ layout: section
     </ul>
   </div>
 </div>
-</div>
