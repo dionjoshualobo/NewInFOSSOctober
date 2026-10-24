@@ -258,7 +258,7 @@ layout: section
 # <span class="font-semibold">OpenStreetMap Milestones</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_osm.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/osm.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Milestone:</strong> Over 115 million mapped names under the Open Database License (ODbL)</li>
@@ -273,7 +273,7 @@ layout: section
 # <span class="font-semibold">LF OpenGrid</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_lf.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/opengrid.svg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Launched:</strong> 7 Oct 2026 by Linux Foundation</li>
@@ -294,7 +294,7 @@ layout: section
 # <span class="font-semibold">PHP2Shell RCEs</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_php.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/php.svg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>CVEs:</strong> CVE-2026-109618, CVE-2026-109619 (CVSS 9.2)</li>
@@ -310,7 +310,7 @@ layout: section
 # <span class="font-semibold">Node.js Security Update</span>
 
 <div class="grid grid-cols-2 gap-6 items-center mt-4">
-  <img src="/assets/rlogo_nodejs.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
+  <img src="/assets/nodejs.svg" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
       <li><strong>Released:</strong> 21 Oct 2026</li>
@@ -329,9 +329,11 @@ layout: section
   <img src="/assets/rlogo_github.png" class="rounded-lg shadow-lg object-contain h-auto max-h-72 w-auto" />
   <div class="text-left text-gray-300 text-base">
     <ul class="space-y-2">
-      <li><strong>Request:</strong> IFPI asked EC to include yt-dlp in 2027 Counterfeit &amp; Piracy Watch List (stream-ripping)</li>
-      <li><strong>Status:</strong> Request, not a ban - watch list expected Q2 2027</li>
-      <li><strong>Debate:</strong> Dual-use software - should responsibility fall on developers/users/platforms/providers?</li>
+      <li><strong>Requester:</strong> International Federation of the Phonographic Industry (IFPI) asked the European Commission (EC) to add yt-dlp to the EU's Counterfeit and Piracy Watch List.</li>
+      <li><strong>Reason:</strong> IFPI argues yt-dlp facilitates unauthorised downloading/stream-ripping of copyrighted music.</li>
+      <li><strong>Status:</strong> Only a request as of now - no ban or legal action from this listing; the next EU Counterfeit and Piracy Watch List is expected in the second quarter of 2027.</li>
+      <li><strong>Debate:</strong> Dual-use open-source tool - responsibility for enforcement/usage is contested between developers, users, platforms and service providers.</li>
     </ul>
   </div>
+</div>
 </div>
