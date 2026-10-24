@@ -240,15 +240,16 @@ layout: section
 
 ---
 
-# <span class="font-semibold">Data Commons SDMX 3.0</span>
+# <span class="font-semibold">Google Data Commons &amp; SDMX 3.0</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
   <img src="/assets/sdmx.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
-      <li><strong>Launched:</strong> 23 Sept 2026</li>
-      <li><strong>Standard:</strong> SDMX 3.0 API for discovering and retrieving statistical observations</li>
-      <li><strong>Benefit:</strong> Standardized interfaces for public statistics without custom parsers</li>
+      <li><strong>By Google:</strong> Google Data Commons launched an SDMX 3.0 API on 23 Sept 2026.</li>
+      <li><strong>What is Data Commons:</strong> An open knowledge repository that aggregates public datasets and makes them easily accessible.</li>
+      <li><strong>What is SDMX:</strong> Statistical Data and Metadata eXchange — an international standard for exchanging statistical data and metadata.</li>
+      <li><strong>Benefit:</strong> Developers can query statistical observations using a standardised API without building custom parsers for each agency.</li>
     </ul>
   </div>
 </div>
