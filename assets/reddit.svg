@@ -1,0 +1,7 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#1a1a1a"/>
+  <circle cx="100" cy="85" r="20" fill="none" stroke="#ff4500" stroke-width="2"/>
+  <path d="M 85 95 L 95 105 L 110 85" stroke="#ff4500" stroke-width="2" fill="none"/>
+  <rect x="70" y="115" width="60" height="25" rx="4" fill="none" stroke="#ff4500" stroke-width="2"/>
+  <text x="100" y="160" font-size="14" text-anchor="middle" fill="#999">r/opensource</text>
+</svg>

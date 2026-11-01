@@ -9,7 +9,7 @@ class: text-center
 colorSchema: dark
 drawings:
   persist: false
-transition: fade
+transition: slide
 mdc: true
 duration: 20min
 
@@ -150,6 +150,51 @@ layout: section
 </div>
 
 ---
+
+# <span class="font-semibold">systemd: Rust Support</span>
+
+<div class="grid grid-cols-2 gap-8 items-center mt-6">
+  <img src="/assets/linux.jpg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <div class="text-left text-gray-300 text-sm leading-relaxed">
+    <ul class="space-y-2">
+      <li><strong>Date:</strong> 24–25 Oct 2026</li>
+      <li><strong>Change:</strong> Optional Rust support merged for new components</li>
+      <li><strong>Impact:</strong> Memory-safe Rust in core Linux infrastructure</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+# <span class="font-semibold">OBS Studio 33.0 &amp; Contour</span>
+
+<div class="grid grid-cols-2 gap-8 items-center mt-6">
+  <img src="/assets/obs-studio.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <div class="text-left text-gray-300 text-sm leading-relaxed">
+    <ul class="space-y-2">
+      <li><strong>Date:</strong> 24 Oct 2026</li>
+      <li><strong>OBS 33.0:</strong> Major release with performance & UI improvements</li>
+      <li><strong>Contour 0.8:</strong> Modern terminal emulator milestone</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+# <span class="font-semibold">Gentoo Removes Chromium</span>
+
+<div class="grid grid-cols-2 gap-8 items-center mt-6">
+  <img src="/assets/rlogo_ubuntu.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <div class="text-left text-gray-300 text-sm leading-relaxed">
+    <ul class="space-y-2">
+      <li><strong>Action:</strong> Chromium removed from official repositories</li>
+      <li><strong>Reason:</strong> Build complexity, maintenance burden</li>
+      <li><strong>Status:</strong> Users can still build from source</li>
+    </ul>
+  </div>
+</div>
+
+---
 layout: section
 ---
 
@@ -218,6 +263,51 @@ layout: section
 </div>
 
 ---
+
+# <span class="font-semibold">Mistral Large 4: Open Weights</span>
+
+<div class="grid grid-cols-2 gap-8 items-center mt-6">
+  <img src="/assets/deepseek.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <div class="text-left text-gray-300 text-sm leading-relaxed">
+    <ul class="space-y-2">
+      <li><strong>Released:</strong> 29 Oct 2026</li>
+      <li><strong>Model:</strong> Mistral Large 4 with open weights</li>
+      <li><strong>Impact:</strong> Frontier-class model weights publicly available</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+# <span class="font-semibold">Baidu: Unlimited OCR 2</span>
+
+<div class="grid grid-cols-2 gap-8 items-center mt-6">
+  <img src="/assets/rlogo_google.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <div class="text-left text-gray-300 text-sm leading-relaxed">
+    <ul class="space-y-2">
+      <li><strong>Released:</strong> 26 Oct 2026</li>
+      <li><strong>Project:</strong> Unlimited OCR 2 open-sourced</li>
+      <li><strong>Features:</strong> Multi-language OCR, layout analysis</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+# <span class="font-semibold">Anthropic: OSS Scanner</span>
+
+<div class="grid grid-cols-2 gap-8 items-center mt-6">
+  <img src="/assets/anthropic.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <div class="text-left text-gray-300 text-sm leading-relaxed">
+    <ul class="space-y-2">
+      <li><strong>Launched:</strong> 25 Oct 2026</li>
+      <li><strong>Tool:</strong> "OSS Scanner" for critical FOSS projects</li>
+      <li><strong>Purpose:</strong> Automated security scanning & vulnerability detection</li>
+    </ul>
+  </div>
+</div>
+
+---
 layout: section
 ---
 
@@ -225,7 +315,7 @@ layout: section
 
 ---
 
-# <span class="font-semibold">UN System Data Commons</span>
+# <span class="font-semibold">OpenStreetMap: 115M Features</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
   <img src="/assets/un.svg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
@@ -334,6 +424,72 @@ layout: section
       <li><strong>Reason:</strong> IFPI argues yt-dlp facilitates unauthorised downloading/stream-ripping of copyrighted music.</li>
       <li><strong>Status:</strong> Only a request as of now - no ban or legal action from this listing; the next EU Counterfeit and Piracy Watch List is expected in the second quarter of 2027.</li>
       <li><strong>Debate:</strong> Dual-use open-source tool - responsibility for enforcement/usage is contested between developers, users, platforms and service providers.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+# <span class="font-semibold">Sentry: $1M for Maintainers</span>
+
+<div class="grid grid-cols-2 gap-8 items-center mt-6">
+  <img src="/assets/rlogo_github.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <div class="text-left text-gray-300 text-sm leading-relaxed">
+    <ul class="space-y-2">
+      <li><strong>Date:</strong> 21 Oct 2026</li>
+      <li><strong>Pledge:</strong> $1 million to open-source project maintainers</li>
+      <li><strong>Impact:</strong> Direct financial support for critical FOSS infrastructure</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+# <span class="font-semibold">Tor: Network Hijacked</span>
+
+<div class="grid grid-cols-2 gap-8 items-center mt-6">
+  <img src="/assets/rlogo_nura.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <div class="text-left text-gray-300 text-sm leading-relaxed">
+    <ul class="space-y-2">
+      <li><strong>Incident:</strong> Tor network experienced security incident</li>
+      <li><strong>Cause:</strong> Possible human error in configuration</li>
+      <li><strong>Status:</strong> Investigated by Tor Project</li>
+    </ul>
+  </div>
+</div>
+
+---
+layout: section
+---
+
+# <span class="font-semibold">Act 6: Policy & Community</span>
+
+---
+
+# <span class="font-semibold">Power to Players Act</span>
+
+<div class="grid grid-cols-2 gap-8 items-center mt-6">
+  <img src="/assets/reddit.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <div class="text-left text-gray-300 text-sm leading-relaxed">
+    <ul class="space-y-2">
+      <li><strong>Bill:</strong> Proposed in US Congress</li>
+      <li><strong>Purpose:</strong> Mandate console interoperability, protect modding rights</li>
+      <li><strong>Impact:</strong> Could force manufacturers to allow third-party accessories</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+# <span class="font-semibold">r/OpenSource: Stricter Rules</span>
+
+<div class="grid grid-cols-2 gap-8 items-center mt-6">
+  <img src="/assets/reddit.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <div class="text-left text-gray-300 text-sm leading-relaxed">
+    <ul class="space-y-2">
+      <li><strong>Change:</strong> Reddit's r/opensource implements stricter rules</li>
+      <li><strong>Focus:</strong> Better moderation for project submissions</li>
+      <li><strong>Impact:</strong> Improved quality, reduced spam</li>
     </ul>
   </div>
 </div>

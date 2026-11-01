@@ -1,0 +1,6 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#1a1a1a"/>
+  <rect x="60" y="70" width="80" height="60" fill="none" stroke="#4ecdc4" stroke-width="2" rx="4"/>
+  <circle cx="100" cy="100" r="12" fill="#4ecdc4"/>
+  <text x="100" y="160" font-size="14" text-anchor="middle" fill="#999">Power to Players</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#1a1a1a"/>
+  <rect x="60" y="60" width="80" height="80" fill="none" stroke="#362d59" stroke-width="2"/>
+  <circle cx="100" cy="100" r="12" fill="#362d59"/>
+  <path d="M 100 70 L 100 130 M 70 100 L 130 100" stroke="#362d59" stroke-width="1" stroke-dasharray="2,2"/>
+  <text x="100" y="160" font-size="14" text-anchor="middle" fill="#999">Sentry</text>
+</svg>
