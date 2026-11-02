@@ -154,7 +154,7 @@ layout: section
 # <span class="font-semibold">systemd: Rust Support</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/linux.jpg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <img src="/assets/systemd.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Date:</strong> 24–25 Oct 2026</li>
@@ -184,7 +184,7 @@ layout: section
 # <span class="font-semibold">Gentoo Removes Chromium</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/rlogo_ubuntu.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <img src="/assets/gentoo.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Action:</strong> Chromium removed from official repositories</li>
@@ -267,7 +267,7 @@ layout: section
 # <span class="font-semibold">Mistral Large 4: Open Weights</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/deepseek.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <img src="/assets/mistral.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Released:</strong> 29 Oct 2026</li>
@@ -282,7 +282,7 @@ layout: section
 # <span class="font-semibold">Baidu: Unlimited OCR 2</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/rlogo_google.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <img src="/assets/baidu.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Released:</strong> 26 Oct 2026</li>
@@ -433,7 +433,7 @@ layout: section
 # <span class="font-semibold">Sentry: $1M for Maintainers</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/rlogo_github.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <img src="/assets/sentry.svg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Date:</strong> 21 Oct 2026</li>
@@ -448,7 +448,7 @@ layout: section
 # <span class="font-semibold">Tor: Network Hijacked</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/rlogo_nura.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <img src="/assets/tor.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Incident:</strong> Tor network experienced security incident</li>
@@ -469,7 +469,7 @@ layout: section
 # <span class="font-semibold">Power to Players Act</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/reddit.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <img src="/assets/p2p.jpg" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Bill:</strong> Proposed in US Congress</li>
@@ -484,7 +484,7 @@ layout: section
 # <span class="font-semibold">r/OpenSource: Stricter Rules</span>
 
 <div class="grid grid-cols-2 gap-8 items-center mt-6">
-  <img src="/assets/reddit.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
+  <img src="/assets/opensource.png" class="object-contain h-72 max-w-[380px] w-auto mx-auto" />
   <div class="text-left text-gray-300 text-sm leading-relaxed">
     <ul class="space-y-2">
       <li><strong>Change:</strong> Reddit's r/opensource implements stricter rules</li>
